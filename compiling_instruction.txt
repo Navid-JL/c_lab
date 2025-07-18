@@ -1,0 +1,5 @@
+gcc -Wall -Wextra -std=c2x -pedantic -o foo foo.c
+
+gcc -Wall -Wextra -std=c2x -pedantic -o foo foo.c -lm bar.c
+
+
